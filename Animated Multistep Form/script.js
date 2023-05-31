@@ -1,0 +1,1 @@
+const mutliStepForm = document.querySelector("[data-multi-step]")
